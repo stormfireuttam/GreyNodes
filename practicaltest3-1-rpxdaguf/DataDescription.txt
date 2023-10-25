@@ -1,0 +1,18 @@
+About this file
+
+The file contains the different attributes of customers' reservation details. The detailed data dictionary is given below.
+
+Data Dictionary
+
+    Booking_ID: unique identifier of each booking
+    Segment_Type: Market segment designation
+    Arrival_Year: Year of arrival date
+    Arrival_Month: Month of arrival date
+    Arrival_Date: Date of the month
+    Num_Adults: Number of adults
+    Num_Children: Number of Children
+    Num_Week_Nights: Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
+    Num_Weekend_Nights: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
+    Room_Type: Type of room reserved by the customer
+    Lead_Time: Number of days between the date of booking and the arrival date
+    Avg_Room_Price: Average price per day of the reservation; prices of the rooms are dynamic
